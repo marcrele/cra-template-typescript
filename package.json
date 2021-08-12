@@ -1,6 +1,9 @@
 {
   "name": "cra-template-typescript",
   "version": "0.0.1",
+  "scripts": {
+    "package": "tar -czvf template.tar.gz *"
+  },
   "keywords": [
     "react",
     "create-react-app",
