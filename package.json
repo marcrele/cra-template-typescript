@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-typescript",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "A create react app template with basic redux rest and graphql functionality.",
+  "license": "Apache License Version 2.0",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
